@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-CV GOES HERE
+[PDF Version](https://github.com/walkingipad/walkingipad.github.io/raw/master/assets/docs/cv.pdf)
