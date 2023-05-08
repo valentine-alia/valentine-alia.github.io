@@ -3,5 +3,7 @@ main:
     url: index.html
   - title: "CV"
     url: /cv/
+  - title: "Contact"
+    url: /contact/
   - title: "Projects"
     url: /projects/
