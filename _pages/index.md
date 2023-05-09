@@ -5,7 +5,7 @@ permalink: index.html
 author_profile: true
 ---
 
-<img style="float: right; padding: 5px 5px 5px 5px;" align="left" src="./assets/images/av_1.jpg" alt="Alia"/>
+<img style="float: right; padding: 5px 5px 5px 5px;" align="left" src="./assets/images/av_1.jpg" alt="Alia" style="width:501px;height:590px;"/>
 
 
 Hello! I'm Alia Valentine.
