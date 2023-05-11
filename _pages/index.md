@@ -10,4 +10,4 @@ author_profile: true
 
 Hello! I'm Alia Valentine.
 
-I'm an senior undergraduate student at Michigan State University studying Mathematics and Physics. I'm also persuing a minor in Computational Mathamatics, Science, and Engineering (CMSE). My main research area thus far is Physics Education Research (PER). In PER, I'm primarily interested in how students learn and use computation.
+I'm a senior undergraduate student at Michigan State University studying Mathematics and Physics. I'm also persuing a minor in Computational Mathamatics, Science, and Engineering (CMSE). My main research area thus far is Physics Education Research (PER). In PER, I'm primarily interested in how students learn and use computation. I use they/them/theirs and she/her/hers pronouns.
