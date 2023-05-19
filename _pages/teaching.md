@@ -11,7 +11,7 @@ I have been an Undergraduate Learning Assistant (ULA or LA) for several courses 
 ### Present and Future Courses
 -   Fall 2023 - PHY 415 (Mathematical Modeling in Physics) (LA)
 -   Summer 2023 - Machine Learning Short Course
-    - Co-Taught / Designed with [Dr. Danny Caballero](dannycaballero.info/)
+    - Co-Taught / Designed with [Danny Caballero](https://dannycab.github.io)
 
 ### Past Courses
 
