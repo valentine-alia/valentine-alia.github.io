@@ -3,7 +3,7 @@ main:
     url: index.html
   - title: "Teaching"
     url: /teaching
- - title: "CV"
+  - title: "CV"
     url: /cv/
   - title: "Contact"
     url: /contact/
