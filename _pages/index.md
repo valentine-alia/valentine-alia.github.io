@@ -5,8 +5,6 @@ permalink: index.html
 author_profile: true
 ---
 
-<img style="float: right;" align="left" src="./assets/images/av_2.jpg" alt="Alia" style="width:500px;height:610px;"/>
-
 <img style="float: right;" align="left" src="./assets/images/av_1.jpg" alt="Alia" style="width:500px;height:610px;"/>
 
 
