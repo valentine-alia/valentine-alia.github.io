@@ -12,7 +12,7 @@ Hello! I'm Alia Valentine.
 
 I'm a senior undergraduate student at Michigan State University studying Mathematics and Physics. I'm also persuing a minor in Computational Mathamatics, Science, and Engineering (CMSE). 
 
-I'm broadly interested in applied mathematics. Lately I've been particularly interested in dynamical systems and numerical methods for solving differential equations.
+I'm broadly interested in applied mathematics. Lately I've been particularly interested in dynamical systems and numerical methods for solving differential equations. Topological Data Analysis (TDA) and in particular its applications to the analysis of dynamical systems is also facinating to me.
 
 Additionally, Math and Physics communication and education is important to me, and accordingly MSU's Physics Education Research Lab ([PERL](https://perl.natsci.msu.edu/)) is near and dear to my heart.
 
