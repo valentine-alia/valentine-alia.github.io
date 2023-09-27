@@ -1,3 +1,12 @@
+## Alia's Notes to self on how to actually use this site
+
+- `-pages` has the markdown files for the main pages that show up on the site. 
+- `_posts` has blog posts that show up at https://valentine-alia.github.io/blog/
+- `assets` has any useful files like my cv, images, latex notes I've uploaded, etc.
+- `navigation.yml` chooses what pages are actually built into the main menu of the site
+- `config.yml` has all of the convienient site-wide settings and design stuff
+
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
