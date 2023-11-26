@@ -15,11 +15,15 @@ gallery:
   - url: assets/images/VP.png
     image_path: /assets/images/VP.png
     alt: "Variational Posterior"
-    title: "3D representation of varational posterior probability distribution"
+    title: "3D representation of probability distribution from VBMC estimating parameters of Nonlinear ODEs"
+  - url: assets/images/OPN.png
+    image_path: /assets/images/OPN.png
+    alt: "Ordinal Partition Network"
+    title: "Ordinal Partiiton Network arising from Nonlinear ODEs"
   - url: assets/images/takens.png
     image_path: /assets/images/takens.png
     alt: "Takens Embedding"
-    title: "Takens Embedding from an honors research project I did for CMSE 201 and PHY 415"
+    title: "Takens Embedding arising from Nonlinear ODEs"
 ---
 
 <!-- <img style="float: right;" align="left" src="./assets/images/av_1.jpg" alt="Alia" style="width:425px;height:auto;"/> -->
@@ -29,9 +33,9 @@ Hello! I'm Alia Valentine.
 
 I'm a senior undergraduate student at Michigan State University studying Mathematics and Physics. I'm also persuing a minor in Computational Mathamatics, Science, and Engineering (CMSE). 
 
-I'm broadly interested in applied mathematics. Lately I've been particularly interested in dynamical systems and numerical analysis, especially in the context of solving differential equations.
+I'm interested in Applied Mathematics, specifically Dynamical Systems and Numerical Analysis in the context of Differential Equations. 
 
-Additionally, Math and Physics communication and education is important to me, and accordingly MSU's Physics Education Research Lab ([PERL](https://perl.natsci.msu.edu/)) is near and dear to my heart.
+Additionally, Mathematics and Physics communication and education is important to me, and accordingly MSU's Physics Education Research Lab ([PERL](https://perl.natsci.msu.edu/)) is near and dear to my heart.
 
  I use she/her/hers pronouns.
 
