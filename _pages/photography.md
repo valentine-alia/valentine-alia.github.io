@@ -39,7 +39,15 @@ gallery:
   - url: assets/images/photography/bord.jpg
     image_path: /assets/images/photography/bord.jpg
     alt: "white throated sparrow"
-    title: "white-throated sparrow spotted at corey marsh"
+    title: "white-throated sparrow spotted at Corey Marsh"
+  - url: assets/images/photography/kingbird.jpg
+    image_path: /assets/images/photography/kingbird.jpg
+    alt: "Eastern Kingbird"
+    title: "Eastern Kingbird"
+  - url: assets/images/photography/goots.jpg
+    image_path: /assets/images/photography/goots.jpg
+    alt: "More Goots"
+    title: "More Goots"
 ---
 
 {% include gallery caption=" " %}
