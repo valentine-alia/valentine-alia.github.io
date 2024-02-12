@@ -16,4 +16,4 @@ Additionally, Mathematics and Physics communication and education is important t
 
  I use she/her/hers pronouns.
 
-{% include image-gallery.html folder="/assets/images" %}
+{% include image-gallery.html folder="/assets/images/index" %}
