@@ -51,3 +51,7 @@ gallery:
 ---
 
 {% include gallery caption=" " %}
+
+some more words
+
+{% include image-gallery.html folder="/assets/images/photography" %}
