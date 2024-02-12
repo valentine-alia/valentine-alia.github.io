@@ -3,30 +3,7 @@ title: About
 layout: splash
 permalink: index.html
 author_profile: true
-gallery:
-  - url: assets/images/av_2.jpg
-    image_path: /assets/images/av_2.jpg
-    alt: "Presenting our poster at the end of SUAMI"
-    title: "Presenting our poster at the end of SUAMI"
-  - url: assets/images/av_1.jpg
-    image_path: /assets/images/av_1.jpg
-    alt: "Me in a less formal setting"
-    title: "Me in a less formal setting"
-  - url: assets/images/VP.png
-    image_path: /assets/images/VP.png
-    alt: "Variational Posterior"
-    title: "3D representation of probability distribution from VBMC estimating parameters of Nonlinear ODEs"
-  - url: assets/images/OPN.png
-    image_path: /assets/images/OPN.png
-    alt: "Ordinal Partition Network"
-    title: "Ordinal Partiiton Network arising from Nonlinear ODEs"
-  - url: assets/images/takens.png
-    image_path: /assets/images/takens.png
-    alt: "Takens Embedding"
-    title: "Takens Embedding arising from Nonlinear ODEs"
 ---
-
-<!-- <img style="float: right;" align="left" src="./assets/images/av_1.jpg" alt="Alia" style="width:425px;height:auto;"/> -->
 
 
 Hello! I'm Alia Valentine.
@@ -39,4 +16,4 @@ Additionally, Mathematics and Physics communication and education is important t
 
  I use she/her/hers pronouns.
 
-{% include gallery caption="Some pictures of myself and cool stuff from research." %}
+{% include image-gallery.html folder="/assets/images" %}
