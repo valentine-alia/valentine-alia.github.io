@@ -1,12 +1,8 @@
 main:
-  - title: "About"
-    url: index.html
   - title: "Teaching"
     url: /teaching
   - title: "CV"
     url: /cv/
-  - title: "Contact"
-    url: /contact/
   - title: "Projects"
     url: /projects/
 
