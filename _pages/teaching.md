@@ -5,16 +5,19 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
-I have been an Undergraduate Learning Assistant (ULA or LA) for several courses at Michigan State University.
+### Mentoring
+- Fall 2024 - Directed Reading of "Elements of Information Theory"
 
 ### Present and Future Courses
 
--   Summer 2024 - [Machine Learning Short Course](https://dannycaballero.info/MSU_REU_ML_course/intro.html)
+- This year I am not TAing as I am on a Cornell fellowship. I can't wait to TA in fall 2025!
+
 
 
 ### Past Courses
+As an undergraduate TA at MSU.
 
+-   Summer 2024 - [Machine Learning Short Course](https://dannycaballero.info/MSU_REU_ML_course/intro.html)
 - Spring 2024 - [PHY 321 (Classical Mechanics)](https://dannycaballero.info/phy321msu/intro.html) 
 - Spring 2024 - PHY 481 (Electricity & Magnetism I) 
 -   Fall 2023 - [PHY 415 (Mathematical Modeling in Physics)](https://dannycaballero.info/phy415fall23/content/intro.html) 

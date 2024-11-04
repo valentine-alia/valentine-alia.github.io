@@ -8,13 +8,10 @@ author_profile: true
 
 Hello! I'm Alia Valentine.
 
-I'm a first year Ph.D. student at the [Cornell Center for Applied Mathematics](https://www.cam.cornell.edu/cam).
+I'm a first year Ph.D. student at the [Cornell Center for Applied Mathematics](https://www.cam.cornell.edu/cam). I am mainly interested in applied dynamical systems/nonlinear dynamics/complex systems. I love bringing all sorts of powerful mathematical tools to bear on problems across the sciences. ODEs, Bayesian Methods, Numerical Analysis, PDEs, TDA, control theory, stochastic processes, etc., I love using them all to tackle interesting problems. Lately I've been particularly motivated by collective behavior and its ties to nonlinear dynamics and statistical physics.
 
-I'm interested in a wide range of problems in Applied Mathematics, my main areas of interest are statistical physics, dynamical systems, mathematical ecology, collective behavior, and information theory. 
+I'm also highly motivated by Math, Physics, and Computing education, communication, and outreach. I spent nearly all of my undergraduate career in MSU's [Physics Education Research Lab](https://perl.natsci.msu.edu/).
 
-Additionally, Physics, Math, and Computaion education is important to me. I spent most of my undergraduate career at Michigan State University working for MSU's [Physics Education Research Lab](https://perl.natsci.msu.edu/).
-
-
-I use she/her/hers pronouns.
+My pronouns are she/her/hers.
 
 {% include image-gallery.html folder="/assets/images/index" %}
