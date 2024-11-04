@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Alia Valentine"
   avatar : "/assets/images/av_3.jpg"
-  bio    : #
+  bio    : "PhD Student, Cornell University" 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
