@@ -5,5 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include /assets/docs/cv.pdf %}
-
+{% include cv.pdf %}
