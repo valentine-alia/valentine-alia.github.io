@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include cv.pdf %}
+{% include base_path %}
