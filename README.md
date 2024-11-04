@@ -7,6 +7,9 @@
 - `config.yml` has all of the convienient site-wide settings and design stuff
 
 
+### saving code for index gallery:
+{% include image-gallery.html folder="/assets/images/index" %}
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).

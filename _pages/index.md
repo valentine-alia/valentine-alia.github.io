@@ -13,5 +13,3 @@ I'm a first year Ph.D. student at the [Cornell Center for Applied Mathematics](h
 I'm also highly motivated by Math, Physics, and Computing education, communication, and outreach. I spent nearly all of my undergraduate career in MSU's [Physics Education Research Lab](https://perl.natsci.msu.edu/).
 
 My pronouns are she/her/hers.
-
-{% include image-gallery.html folder="/assets/images/index" %}
