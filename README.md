@@ -6,9 +6,9 @@
 - `navigation.yml` chooses what pages are actually built into the main menu of the site
 - `config.yml` has all of the convienient site-wide settings and design stuff
 
+### Page layouts:
+https://mmistakes.github.io/minimal-mistakes/docs/layouts/
 
-### saving code for index gallery:
-{% include image-gallery.html folder="/assets/images/index" %}
 
 # Minimal Mistakes remote theme starter
 
