@@ -62,9 +62,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/valentine-alia"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/valentine_alia_/"
     - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:av589@cornell.edu"
@@ -74,9 +71,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/valentine-alia"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/valentine_alia_/"
 
 defaults:
   # _posts
