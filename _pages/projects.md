@@ -18,8 +18,8 @@ I am an amateur wildlife photographer and wannabe birder. See [https://valentine
 
 TTRPGs:
 
-I am (early) in the process of designing a TTRPG called [Renegade 276T](https://1drv.ms/w/s!AjN7UcFsRgjt9069Hh_ez10gdrbD?e=T7yLlA).
+I am in the process of making a TTRPG called Renegade. It is all about being on the run in a rich sci-fi world. Feel free to message me for the pdf!
 
 Music:
 
-I am a passable bassist and less-passible guitarist. Some of my older music can be found on my bandcamp here: [https://valentine-alia.bandcamp.com/](https://valentine-alia.bandcamp.com/). Eventually I will get around to releasing new music.
+I am a pretty good bassist and a not so good guitarist. Some of my older music can be found on my bandcamp here: [https://valentine-alia.bandcamp.com/](https://valentine-alia.bandcamp.com/). Eventually I will get around to releasing new music.
