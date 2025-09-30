@@ -5,17 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Mentoring
-- Fall 2024 - Directed Reading of "Elements of Information Theory"
 
 ### Present and Future Courses
 
-- This year I am not TAing as I am on a Cornell fellowship. I can't wait to TA in fall 2025!
 
+- Fall 2025 - MATH 2930 (Differential Equations for Engineers)
 
 
 ### Past Courses
-As an undergraduate TA at MSU.
+
+
+As an undergraduate TA at MSU:
 
 -   Summer 2024 - [Machine Learning Short Course](https://dannycaballero.info/MSU_REU_ML_course/intro.html)
 - Spring 2024 - [PHY 321 (Classical Mechanics)](https://dannycaballero.info/phy321msu/intro.html) 
