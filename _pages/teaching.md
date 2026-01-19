@@ -9,11 +9,14 @@ author_profile: true
 ### Present and Future Courses
 
 
-- Fall 2025 - MATH 2930 (Differential Equations for Engineers)
+- Spring 2026 - MATH 1300 (Mathematical Explorations)
 
 
 ### Past Courses
 
+As a TA at Cornell:
+
+- Fall 2025 - MATH 2930 (Differential Equations for Engineers)
 
 As an undergraduate TA at MSU:
 
